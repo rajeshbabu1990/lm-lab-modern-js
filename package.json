@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "In session refactoring exercise",
 	"scripts": {
-		"test": "jest"
+		"test": "jest .rest_parameters/rest_parameters.test.js"
 	},
 	"author": "Tech Returners",
 	"license": "MIT",
